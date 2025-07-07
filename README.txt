@@ -1,5 +1,7 @@
 A Constructive Proof of the Riemann Hypothesis and Generalized Riemann Hypothesis via Sparse Angular Domination 2.1
 
+[![DOI](https://zenodo.org/badge/1015238230.svg)](https://doi.org/10.5281/zenodo.15827096)
+
 Tom Gatward (ORCID: 0009-0009-1167-6421)
 
 
